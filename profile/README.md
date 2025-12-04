@@ -19,17 +19,6 @@
 
 <br>
 
-## 🌟 주요 기능
-| ✅ 기능 1. 매일 라인업 업데이트 | ✅ 기능 2. 실시간 선수 교체 |
-|------|------|
-|<img width="540" height="675" alt="01" src="https://github.com/user-attachments/assets/325363e5-eb39-44c3-831c-d6255b2b8c44" />|<img width="540" height="675" alt="02" src="https://github.com/user-attachments/assets/f6959ec4-f35e-4acd-ba75-dc560f5e661e" />|
-
-| ✅ 기능 3. 가사와 음원 | ✅ 기능 4. 워치로 가사 확인 |
-|------|------|
-|<img width="540" height="675" alt="03" src="https://github.com/user-attachments/assets/1ceb6102-a608-47b9-8099-95fc9ae9fa9d" />|<img width="540" height="675" alt="04" src="https://github.com/user-attachments/assets/534cde9d-63c2-40ab-b1d6-20eb64f2cc59" />|
-
-<br>
-
 ## 🧑‍💻 팀 소개
 | 지구 | 윤 | 제나 | 테오 | 이안 | 아이비 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
